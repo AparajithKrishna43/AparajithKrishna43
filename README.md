@@ -16,8 +16,9 @@
 
 ### About Me
 
-- Building autonomous robots with **ROS 2** and **Raspberry Pi 5**
+
 - Currently working on **77 GHz FMCW automotive radar** signal processing (Range-Doppler FFT, CFAR detection) in **MATLAB**
+- Built autonomous robots with **ROS 2** and **Raspberry Pi 4**
 - Applying **Machine Learning** to predictive maintenance and fault diagnosis
 - Interested in embedded systems, sensor fusion, radar, and computer vision
 
