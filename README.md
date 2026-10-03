@@ -17,8 +17,9 @@
 ### About Me
 
 - Building autonomous robots with **ROS 2** and **Raspberry Pi 5**
+- Currently working on **77 GHz FMCW automotive radar** signal processing (Range-Doppler FFT, CFAR detection) in **MATLAB**
 - Applying **Machine Learning** to predictive maintenance and fault diagnosis
-- Interested in embedded systems, sensor fusion, and computer vision
+- Interested in embedded systems, sensor fusion, radar, and computer vision
 
 ---
 
@@ -35,7 +36,36 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
 </p>
+
+---
+
+### Currently Working On
+
+<table>
+  <tr>
+    <td>
+      <h3 align="center">FMCW Automotive Radar — Range-Doppler Processing & CFAR Detection</h3>
+      <p align="center">
+        <a href="https://github.com/AparajithKrishna43/fmcw-radar-range-doppler-cfar">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" />
+      </p>
+      <p>
+        77 GHz LFMCW radar signal processing pipeline in MATLAB. Simulates chirp sequences reflecting off multiple moving targets in AWGN, builds the Range-Doppler map via 2D FFT (fast-time → range, slow-time → radial velocity), and detects targets with 2D CA-CFAR and OS-CFAR, including MTI clutter suppression and centroid-based target extraction.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Radar-FMCW-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/2D_FFT-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/CFAR-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Signal_Processing-purple?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
