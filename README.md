@@ -16,8 +16,8 @@
 
 ### About Me
 
-- 🚦 Designing digital systems and **FSM architectures** in **Verilog HDL** (Smart Traffic Light Controller with ambulance and pedestrian priority preemption)
 - 📡 Currently working on **77 GHz FMCW automotive radar** signal processing (Range-Doppler FFT, CFAR detection) in **MATLAB**
+- 🚦 Designed digital systems and **FSM architectures** in **Verilog HDL** (Smart Traffic Light Controller with ambulance and pedestrian priority preemption)
 - 🤖 Built autonomous robots with **ROS 2** and **Raspberry Pi 5**
 - ⚙️ Applying **Machine Learning** to predictive maintenance and fault diagnosis
 - 💡 Interested in digital logic / FPGA design, embedded systems, sensor fusion, radar, and robotics
