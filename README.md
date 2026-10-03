@@ -16,11 +16,11 @@
 
 ### About Me
 
-
-- Currently working on **77 GHz FMCW automotive radar** signal processing (Range-Doppler FFT, CFAR detection) in **MATLAB**
-- Built autonomous robots with **ROS 2** and **Raspberry Pi 4**
-- Applying **Machine Learning** to predictive maintenance and fault diagnosis
-- Interested in embedded systems, sensor fusion, radar, and computer vision
+- 🚦 Designing digital systems and **FSM architectures** in **Verilog HDL** (Smart Traffic Light Controller with ambulance and pedestrian priority preemption)
+- 📡 Currently working on **77 GHz FMCW automotive radar** signal processing (Range-Doppler FFT, CFAR detection) in **MATLAB**
+- 🤖 Built autonomous robots with **ROS 2** and **Raspberry Pi 5**
+- ⚙️ Applying **Machine Learning** to predictive maintenance and fault diagnosis
+- 💡 Interested in digital logic / FPGA design, embedded systems, sensor fusion, radar, and robotics
 
 ---
 
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog_HDL-F80000?style=flat-square&logo=codeforces&logoColor=white" />
 </p>
 
 ---
@@ -75,6 +76,23 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Smart Traffic Light Controller</h3>
+      <p align="center">
+        <a href="https://github.com/AparajithKrishna43/smart-traffic-light-controller-verilog">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Multi-directional 8-way intersection traffic controller implemented in Verilog HDL. Uses a 10-state FSM architecture with deterministic priority preemption for emergency vehicles (ambulance corridor) and pedestrian safety halts (all-red crossing) with self-checking testbenches.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Verilog_HDL-F80000?style=flat-square" />
+        <img src="https://img.shields.io/badge/FSM-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Digital_Design-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Simulation-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">Autonomous Navigation Robot</h3>
       <p align="center">
         <a href="https://github.com/AparajithKrishna43/turtlebot-autonomous-nav">
@@ -91,6 +109,8 @@
         <img src="https://img.shields.io/badge/Nav2-green?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Predictive Maintenance — Belt Pulley System</h3>
       <p align="center">
@@ -106,6 +126,8 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Signal_Processing-purple?style=flat-square" />
       </p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
