@@ -16,11 +16,12 @@
 
 ### About Me
 
-- 📡 Designed **77 GHz FMCW automotive radar** signal processing (Range-Doppler FFT, CFAR detection) in **MATLAB**
-- 🚦 Designed digital systems and **FSM architectures** in **Verilog HDL** (Smart Traffic Light Controller with ambulance and pedestrian priority preemption)
+- 🔬 Designing **ASIC physical layouts** on the **SkyWater 130nm** node with **OpenROAD** and **Yosys** (8-bit Calculator ASIC)
+- 🚦 Implementing digital logic & **FSM architectures** in **Verilog HDL** (Smart Traffic Light Controller with emergency/pedestrian priority preemption)
+- 📡 Working on **77 GHz FMCW automotive radar** signal processing (Range-Doppler FFT, CFAR detection) in **MATLAB**
 - 🤖 Built autonomous robots with **ROS 2** and **Raspberry Pi 5**
 - ⚙️ Applying **Machine Learning** to predictive maintenance and fault diagnosis
-- 💡 Interested in digital logic / FPGA design, embedded systems, sensor fusion, radar, and robotics
+- 💡 Interested in ASIC / VLSI physical design, digital systems, FPGA, embedded systems, radar, and robotics
 
 ---
 
@@ -39,6 +40,8 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Verilog_HDL-F80000?style=flat-square&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenROAD-00599C?style=flat-square&logo=linuxfoundation&logoColor=white" />
+  <img src="https://img.shields.io/badge/SkyWater_130nm-informational?style=flat-square" />
 </p>
 
 ---
@@ -76,6 +79,23 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">8-Bit Calculator ASIC (Sky130)</h3>
+      <p align="center">
+        <a href="https://github.com/AparajithKrishna43/8bit-calculator-sky130">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Synchronous 8-bit arithmetic & logic calculator ASIC core targeting the SkyWater 130nm CMOS node. Implemented complete RTL-to-GDSII flow with Yosys and OpenROAD, achieving 100 MHz timing closure (+4.18 ns slack) with zero DRC violations.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/SkyWater_130nm-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenROAD-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Yosys-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/ASIC-orange?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">Smart Traffic Light Controller</h3>
       <p align="center">
         <a href="https://github.com/AparajithKrishna43/smart-traffic-light-controller-verilog">
@@ -92,6 +112,8 @@
         <img src="https://img.shields.io/badge/Simulation-green?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">Autonomous Navigation Robot</h3>
       <p align="center">
@@ -109,8 +131,6 @@
         <img src="https://img.shields.io/badge/Nav2-green?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">Predictive Maintenance — Belt Pulley System</h3>
       <p align="center">
@@ -126,8 +146,6 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Signal_Processing-purple?style=flat-square" />
       </p>
-    </td>
-    <td width="50%">
     </td>
   </tr>
 </table>
