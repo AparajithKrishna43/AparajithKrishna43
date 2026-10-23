@@ -46,34 +46,6 @@
 
 ---
 
-### Currently Working On
-
-<table>
-  <tr>
-    <td>
-      <h3 align="center">FMCW Automotive Radar — Range-Doppler Processing & CFAR Detection</h3>
-      <p align="center">
-        <a href="https://github.com/AparajithKrishna43/fmcw-radar-range-doppler-cfar">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge" />
-      </p>
-      <p>
-        77 GHz LFMCW radar signal processing pipeline in MATLAB. Simulates chirp sequences reflecting off multiple moving targets in AWGN, builds the Range-Doppler map via 2D FFT (fast-time → range, slow-time → radial velocity), and detects targets with 2D CA-CFAR and OS-CFAR, including MTI clutter suppression and centroid-based target extraction.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-        <img src="https://img.shields.io/badge/Radar-FMCW-informational?style=flat-square" />
-        <img src="https://img.shields.io/badge/2D_FFT-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/CFAR-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Signal_Processing-purple?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Featured Projects
 
 <table>
@@ -115,6 +87,23 @@
   </tr>
   <tr>
     <td width="50%">
+      <h3 align="center">FMCW Automotive Radar</h3>
+      <p align="center">
+        <a href="https://github.com/AparajithKrishna43/fmcw-radar-range-doppler-cfar">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        77 GHz LFMCW radar signal processing pipeline in MATLAB. Simulates chirp sequences reflecting off multiple moving targets in AWGN, builds the Range-Doppler map via 2D FFT, and detects targets with 2D CA-CFAR and OS-CFAR, including MTI clutter suppression.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Radar-FMCW-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/2D_FFT-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/CFAR-green?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">Autonomous Navigation Robot</h3>
       <p align="center">
         <a href="https://github.com/AparajithKrishna43/turtlebot-autonomous-nav">
@@ -131,8 +120,10 @@
         <img src="https://img.shields.io/badge/Nav2-green?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3 align="center">Predictive Maintenance — Belt Pulley System</h3>
+      <h3 align="center">Predictive Maintenance — Belt Pulley</h3>
       <p align="center">
         <a href="https://github.com/AparajithKrishna43/Predictive-Maintainance-of-Belt-Pulley-system-using-Machine-Learning">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -145,6 +136,23 @@
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Signal_Processing-purple?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Disaster-Resilient ESP-32 Mesh</h3>
+      <p align="center">
+        <a href="https://github.com/AparajithKrishna43/Disaster-Resilient-ESP-32-Mesh-Network">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        Multi-node ESP32 mesh network using the ESP-NOW protocol with MPU6050-based tremor sensing, automated heartbeat monitoring, and dynamic self-healing routing for emergency disaster scenarios.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP--NOW-informational?style=flat-square" />
+        <img src="https://img.shields.io/badge/IoT-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Embedded_C-purple?style=flat-square" />
       </p>
     </td>
   </tr>
