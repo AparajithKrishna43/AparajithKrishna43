@@ -23,6 +23,7 @@
 - ⚙️ Applying **Machine Learning** to predictive maintenance and fault diagnosis
 - 💡 Interested in ASIC / VLSI physical design, digital systems, FPGA, embedded systems, radar, and robotics
 
+
 ---
 
 ### Tech Stack
